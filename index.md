@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "QuMr的文档站点"
   text: "A VitePress Site"
-  tagline: My great project tagline
+  tagline: 持续学习,持续进步
   actions:
     - theme: brand
       text: Markdown Examples
